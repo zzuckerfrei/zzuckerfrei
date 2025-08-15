@@ -2,8 +2,8 @@
 
 **DevOps Engineer** building Kubernetes monitoring / operations solutions
 
-- 🔧 Working on **Skuber Management** - K8s monitoring / operations platform at **Wondermove**
-- 📊 Tech: Kubernetes, ClickHouse, OpenTelemetry
+- 🔧 Working on **[Skuber Management](https://skuber.wondermove.net/)** - K8s monitoring / operations platform at **[Wondermove](https://wondermove.net/)**
+- 📊 Tech: Kubernetes, ClickHouse, OpenTelemetry, Cilium
 - ⚡ Fun fact: I love monitoring and observability!
 - 📫 Contact: seonmin1219@gmail.com
 
